@@ -15,17 +15,19 @@ Gin is a web framework written in Go (Golang). It features a martini-like API wi
 
 The key features of Gin are:
 
-- **Zero allocation router**.
-- **Fast:** Radix tree based routing, small memory foot print, no reflection.
-- **Middleware support**
-- **Crash-free**
-- **JSON validation**
-- **Routes grouping**
-- **Error management**
-- **Rendering built-in**
-- **Extendable**
+- Zero allocation router
+- Fast
+- Middleware support
+- Crash-free
+- JSON validation
+- Routes grouping
+- Error management
+- Rendering built-in
+- Extendable
 
-## Installation
+For more information, see the [introduction](https://gin-gonic.com/introduction/) of the Gin website.
+
+## Getting start
 
 To install Gin package, you need to install Go and set your Go workspace first.
 
